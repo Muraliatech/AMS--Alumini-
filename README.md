@@ -1,4 +1,6 @@
 Alumni Management System
+
+
 The Alumni Management System is a web application developed to facilitate alumni engagement, networking, and communication for [Your Institution/Program Name]. It allows alumni to connect with each other, stay updated on institution news and events, and contribute to the growth and development of the institution.
 
 Features
@@ -12,6 +14,8 @@ Mentorship Program: Participate in mentorship programs to guide and support curr
 Donations and Fundraising: Contribute to fundraising initiatives and support institutional projects.
 Admin Panel: Admins can manage user accounts, content, and system settings.
 Technologies Used
+
+
 Frontend:
 
 HTML
