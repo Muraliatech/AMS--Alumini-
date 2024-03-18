@@ -24,6 +24,9 @@
    margin: 0px 0px;
    color: #fff;
    text-align: center;
+   font-size: 40px;
+   font-family: revert;
+   
  
  }
  .light-300 {
@@ -32,11 +35,13 @@
 }
 
  .topbar img{
-    position: absolute;
-    top: 73px;
-    left: 20px;
-    transform: translateY(-50%);
-    height: 120px;
+     
+        position: absolute;
+        top: 77px;
+        left: 15px;
+        transform: translateY(-50%);
+        height: 139px;
+   
 
  }
  
@@ -128,3 +133,19 @@
      
     text-align: center;
 }
+
+.content h2{
+
+    margin: 15px 29px;
+}
+ 
+.content h3{
+
+    margin: 25px 44px;
+}
+
+.content ul
+{
+    margin: 25px 57px;
+}
+ 
